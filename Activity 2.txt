@@ -1,0 +1,26 @@
+Leonides Martinez
+CST-150
+September 26, 2021
+Mark Smithers
+
+Topic 1 Activity 2
+
+Rubric
+1. Write a program that gathers input data from a text box control.
+Convert Button:
+
+* When clicked, input is parsed into double value and asssigned to lbs variable.
+* The mathematical result from dividing lbs by massValue is assigned to kg.
+* kg variable is casted into a string with one numerical value after the decimal and assigned to displayWeightTextBox.Text.
+* Button declared as accept button.
+2. Declare and initialize primitive variables and select appropriate variable types for a computational problem.
+
+* lbs is declared as a double value and initialized with the value of double.Parse(weightTextBox.Text) or input.
+* kg is declared as a double value and initialized as the result from dividing lbs by massValue.
+* massValue is initialized with the rounded conversion mass value of 2.2.
+3. Formulate mathematical expressions to solve problems.
+
+* Mathematical expression is the division of lbs by massValue.
+4. Use the .NET environment to develop a simple graphical user interface using built-in tools.
+
+* Clicking the Convert button converts the input in lbs to kg.
